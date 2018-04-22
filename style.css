@@ -161,17 +161,15 @@ body, html {
     height: 80px;
 }
 .fee{
-    box-shadow:  rgba(0,0,0,0.2);
-    background-color: white ;
-    height: 60%;width: 40%;
-    margin-left: 10%;
-    display: block;
-    font-size: 15px;
-    line-height: 1.4;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    border-radius: 15px;
-     width: auto;
+    box-shadow: 0 5px 22px 0 rgba(0,0,0,0.2);
+    position: relative;
+    margin-left: 30%;
+        background-color: white ;
+    transition: box-shadow .25s;
+    border-radius: 2px;
+        text-align: center;
+        margin-right: 20%;
+     
 
 
 }
