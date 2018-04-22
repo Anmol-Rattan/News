@@ -161,7 +161,7 @@ body, html {
     height: 80px;
 }
 .fee{
-     box-shadow:  rgba(0,0,0,0.2);
+     box-shadow: 0 5px 22px rgba(0,0,0,0.2);
     background-color: white ;
     height:auto;
     width:auto;
@@ -171,7 +171,7 @@ body, html {
     line-height: 1.4;
     padding-top: 1%;
     padding-bottom: 1%;
-    border-radius: 100px;
+    transition: box-shadow .25s;
         
      
 
