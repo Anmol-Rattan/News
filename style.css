@@ -99,7 +99,7 @@ a:hover {
     background-color: #2196F3;
 }
 
-#projects {
+#logout {
     top: 500px;
     background-color: #f44336;
 }
@@ -133,7 +133,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: ff4500;
   color: white;
 }
 
